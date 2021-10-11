@@ -1,0 +1,12 @@
+C:\Users\mert_\OneDrive\Masaüstü\Projects\E-Commerce\ApplicationLayer\bin\Debug\net5.0\ApplicationLayer.deps.json
+C:\Users\mert_\OneDrive\Masaüstü\Projects\E-Commerce\ApplicationLayer\bin\Debug\net5.0\ApplicationLayer.dll
+C:\Users\mert_\OneDrive\Masaüstü\Projects\E-Commerce\ApplicationLayer\bin\Debug\net5.0\ref\ApplicationLayer.dll
+C:\Users\mert_\OneDrive\Masaüstü\Projects\E-Commerce\ApplicationLayer\bin\Debug\net5.0\ApplicationLayer.pdb
+C:\Users\mert_\OneDrive\Masaüstü\Projects\E-Commerce\ApplicationLayer\obj\Debug\net5.0\ApplicationLayer.csproj.AssemblyReference.cache
+C:\Users\mert_\OneDrive\Masaüstü\Projects\E-Commerce\ApplicationLayer\obj\Debug\net5.0\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mert_\OneDrive\Masaüstü\Projects\E-Commerce\ApplicationLayer\obj\Debug\net5.0\ApplicationLayer.AssemblyInfoInputs.cache
+C:\Users\mert_\OneDrive\Masaüstü\Projects\E-Commerce\ApplicationLayer\obj\Debug\net5.0\ApplicationLayer.AssemblyInfo.cs
+C:\Users\mert_\OneDrive\Masaüstü\Projects\E-Commerce\ApplicationLayer\obj\Debug\net5.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Users\mert_\OneDrive\Masaüstü\Projects\E-Commerce\ApplicationLayer\obj\Debug\net5.0\ApplicationLayer.dll
+C:\Users\mert_\OneDrive\Masaüstü\Projects\E-Commerce\ApplicationLayer\obj\Debug\net5.0\ref\ApplicationLayer.dll
+C:\Users\mert_\OneDrive\Masaüstü\Projects\E-Commerce\ApplicationLayer\obj\Debug\net5.0\ApplicationLayer.pdb
